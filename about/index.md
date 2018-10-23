@@ -6,7 +6,7 @@ date: 2018-10-24
 comments: false
 ---
     
-<center><a href="https://tot0ro.github.io/"><b>TOT0Ro</b></a>'s blog is to analyze about kernel.</center>
+<center><a href="https://TOT0RoKor.github.io/"><b>TOT0Ro</b></a>'s blog is to analyze about kernel.</center>
 
 ## Features
 * Analyze the ARM 4.16 kernel.

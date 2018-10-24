@@ -1,5 +1,5 @@
 # Allow crawling of all content
 User-agent: *
-Disallow:
+#Disallow:
 Allow: /
 Sitemap: https://tot0rokor.github.io/sitemap.xml
